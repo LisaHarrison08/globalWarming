@@ -4,7 +4,7 @@ Global warming is the long-term gradual increase of the Earths surface, atmosphe
 
 The aim of this project is to explore the data surounding global warming and its effects.  The data presented aims to bring awareness to the impending global crisis and to aid in conversations regarding mitigative efforts and solutions. Can we slow or even reverse global warming? Is it too late?
 
-![Images/HemisAVG.png](Images/HemisAVG.png)
+![Images/hemisAVG.png](Images/hemisAVG.png)
 
 
 
