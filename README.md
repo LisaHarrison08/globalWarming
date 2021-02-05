@@ -9,7 +9,20 @@ The aim of this project is to explore the data surounding global warming and its
 ![Images/hemis.png](Images/hemis.png)
 
 
+### Global Surface Temperature
 
+![Images/global.png](Images/global.png)
+
+The dataset spans over a period of 138 years in which the global temperature appears to increase over time. Additionally, the color gradiation from month to month per year also indicates an increase in global temperature. According to an ongoing temperature analysis conducted by scientists at NASA’s Goddard Institute for Space Studies (GISS), the average global temperature on Earth has increased by a little more than 1° Celsius (2° Fahrenheit) since 1880. Two-thirds of the warming has occurred since 1975, at a rate of roughly 0.15-0.20°C per decade.
+
+### Credits
+
+All data, available for public use, is sourced from NASA Goddard Institute for Space Studies. This project does not claim any ownership over the data, and is not reponsible for guaranteeing accuracy of the data.
+
+#### DATA SOURCE: NASA Goddard Institute for Space Studies¶
+GISTEMP Team, 2021: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 2021-01-01 at https://data.giss.nasa.gov/gistemp/.
+Lenssen, N., G. Schmidt, J. Hansen, M. Menne, A. Persin, R. Ruedy, and D. Zyss, 2019: Improvements in the GISTEMP uncertainty model. J. Geophys. Res. Atmos., 124, no. 12, 6307-6326, doi:10.1029/2018JD029522.
+https://data.giss.nasa.gov/gistemp/ Date of Access: January 2021
 
 
 
