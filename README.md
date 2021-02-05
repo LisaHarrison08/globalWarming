@@ -19,7 +19,7 @@ The dataset spans over a period of 138 years in which the global temperature app
 
 The Sea Ice data files are used to look at trends in sea ice cover in the Arctic and Antartic oceans. Data is available from October 1978 to December 2020. The datasets used for this section will analyze the changes to the global sea ice extent based on the daily satelite measurements from the National Snow and Ice Data Center.
 
-![Images/iceExtent.png](Images/iceExtentl.png)
+![Images/iceExtent.png](Images/iceExtent.png)
 
 ### Credits
 
